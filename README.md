@@ -1,1 +1,1 @@
-# logging-spring-rest-logstash
+# logging-json
